@@ -8,10 +8,12 @@ The Random Quote Generator is a simple web application that displays a random in
 - Responsive Design: The application is designed to work well on both desktop and mobile devices.
 - Customizable Quotes: Easily add or modify quotes in the JavaScript code.
 ## Tech Stack
-
 - HTML: For structuring the content of the page.
 - CSS: For styling the page and making it visually appealing.
 - JavaScript: For generating random quotes and handling user interaction
+
+## Demo
+https://github.com/user-attachments/assets/40667d56-cce8-4cbe-8d86-97a4d8cfbed7
 
 ## Acknowledgements
 
