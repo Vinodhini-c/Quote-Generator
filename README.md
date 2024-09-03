@@ -13,7 +13,9 @@ The Random Quote Generator is a simple web application that displays a random in
 - JavaScript: For generating random quotes and handling user interaction
 
 ## Demo
-https://github.com/user-attachments/assets/40667d56-cce8-4cbe-8d86-97a4d8cfbed7
+
+https://github.com/user-attachments/assets/1bbab402-4a8b-46d7-ace6-dc8a87ec7da7
+
 
 ## Acknowledgements
 
